@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="2.5.5" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>@Follow</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T083947Z">
+        <seg>@Seguir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Back to home page</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T102457Z">
+        <seg>Volver a la página principal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Books</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T084003Z">
+        <seg>Libros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Books and tutorials are copyrighted by their authors respectively</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T102520Z">
+        <seg>Los derechos de los libros y tutoriales son de los autores respectivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Check it out for other good Perl tutorials.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T093151Z">
+        <seg>En esta página encontrará más tutoriales de Perl.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Check your email for a confirmation letter.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T093219Z">
+        <seg>Recibirá un mensaje de correo electrónico de confirmación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Click Run to execute.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T102813Z">
+        <seg>Para ejecutar el código, haga clic en Ejecutar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Code editor provided by awesome</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T092815Z">
+        <seg>Editor de código proporcionado por el formidable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T084017Z">
+        <seg>Confirmar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Confirmation</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T084020Z">
+        <seg>Confirmación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T091325Z">
+        <seg>Contenido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Copyright &amp; License</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T092413Z">
+        <seg>Copyright y licencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Drop a line at</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T092516Z">
+        <seg>Escríbanos a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Errors</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T093231Z">
+        <seg>Errores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Errors &amp; Warnings</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T093229Z">
+        <seg>Errores y advertencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Ever wondered what that line would print while reading a Perl tutorial?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T102635Z">
+        <seg>¿Al estudiar un tutorial de Perl se ha preguntado qué hace una línea de código concreta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Finish exercise</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T091000Z">
+        <seg>Complete el ejercicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Follow</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T084146Z">
+        <seg>Seguir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Get involved</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T084155Z">
+        <seg>Colaborar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Get me to tutorials!</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T084243Z">
+        <seg>Ir a los tutoriales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Have an idea?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T093305Z">
+        <seg>¿Tiene una idea?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Home</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T090823Z">
+        <seg>Inicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Interactive Perl tutorials</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T085521Z">
+        <seg>Tutoriales de Perl interactivos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Learn modern Perl any time and from everywhere (mobile friendly)!</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T085556Z">
+        <seg>¡Aprenda Perl moderno en cualquier momento y en cualquier lugar (incluso desde el móvil)!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Make sure &lt;nobr&gt;&lt;code&gt;announcements-noreply@perltuts.com&lt;/code&gt;&lt;/nobr&gt; is in your contact list so it will not end up in a spam folder.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T102723Z">
+        <seg>Asegúrese de incluir &lt;nobr&gt;&lt;code&gt;announcements-noreply@perltuts.com&lt;/code&gt;&lt;/nobr&gt; en su lista de contactos para evitar que nuestros mensajes acaben en la carpeta de correo no deseado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>More books</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T085702Z">
+        <seg>Más libros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>No spam, we promise.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T090550Z">
+        <seg>Puede estar seguro de que no recibirá correo no deseado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Notify me when perltuts is out of BETA (which means more flexible and advanced tutorials)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T102735Z">
+        <seg>Recibir notificación cuando perltuts salga de la fase BETA (entonces estarán disponibles tutoriales más flexibles y avanzados)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Now there is a solution!</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T090948Z">
+        <seg>No se preocupe. ¡Tenemos la solución!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Output</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T093454Z">
+        <seg>Salida</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Powered by</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T090308Z">
+        <seg>Funciona con tecnología</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Project-Id-Version: PACKAGE VERSION
+POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+PO-Revision-Date: 2013-03-15 18:34+0100
+Last-Translator: Alex Muntada &lt;alexm@alexm.org&gt;
+Language-Team: ca
+Language: català
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T102449Z">
+        <seg>Project-Id-Version: PACKAGE VERSION
+POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE
+PO-Revision-Date: 2013-03-19 09:38+0100
+Last-Translator: Enrique Nell &lt;blas.gordon@gmail.com&gt;
+Language-Team: es
+Language: español
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Read concise explanation</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T090341Z">
+        <seg>Lea una breve descripción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Recommended books</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T084308Z">
+        <seg>Libros recomendados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Run</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T084310Z">
+        <seg>Ejecutar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Run &amp; Test</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T084314Z">
+        <seg>Ejecutar y probar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>See if it works!</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T090518Z">
+        <seg>Vea si funciona</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Still stuck with old books?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T090924Z">
+        <seg>¿Solo tiene a mano libros anticuados?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Subscribers</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T084322Z">
+        <seg>Suscriptores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Test</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T090737Z">
+        <seg>Probar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thank you for having interest in perltuts!</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T090507Z">
+        <seg>Le agradecemos su interés en perltuts.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Thank you.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T090441Z">
+        <seg>Gracias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>These books are recommended by %1.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T090421Z">
+        <seg>Estos libros están recomendados por %1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>This code is editable.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T102759Z">
+        <seg>Puede editar el código.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tired of reading outdated information?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T092702Z">
+        <seg>¿Se ha cansado ya de leer información obsoleta?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Translated by</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T084357Z">
+        <seg>Traducido por</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Try Perl 5</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T090436Z">
+        <seg>Pruebe Perl 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Tutorials</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T084407Z">
+        <seg>Tutoriales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Unsubscribe</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T084440Z">
+        <seg>Cancelar suscripción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Want to write a tutorial?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T084425Z">
+        <seg>¿Desea escribir un tutorial?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You successfully unsubscribed</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T084438Z">
+        <seg>Suscripción cancelada correctamente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>You will be notified as soon as we are out of beta.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T093537Z">
+        <seg>Recibirá una notificación cuando perltuts salga de la fase beta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Your confirmation was successful.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T093516Z">
+        <seg>Confirmación correcta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Your email is saved</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T090619Z">
+        <seg>Se ha registrado su dirección de correo electrónico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>download as</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="zipf" changedate="20130319T090708Z">
+        <seg>descargar como</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>not available in</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>no disponible en</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
